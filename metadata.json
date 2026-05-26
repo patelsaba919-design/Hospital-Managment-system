@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Management System",
+  "description": "A modern startup-grade full-stack Hospital Management SaaS Dashboard with rich clinical, scheduling, billing, inventory, and AI routing capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
